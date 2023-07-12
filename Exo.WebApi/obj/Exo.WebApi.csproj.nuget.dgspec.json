@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\lidia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lidia\\AppData\\Roaming\\NuGet\\NuGet.Config"
