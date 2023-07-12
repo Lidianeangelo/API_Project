@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PsP/6rM01VvurRhT6WqEQYL4kMmEjnikGFcJX7TcsXn+q399hYdX7RC70OrqhjcR23GloemEQlQXwbBvWBVIkw==",
+  "dgSpecHash": "EJvUXY2rd1jmErW/LwZTXVzXbPRjWr/LD6xHf4DtlV9XRz4/cEHsZs59Auax7XvfQNN8Q3E5NqCVGE/VfQL/sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\lidia\\Desktop\\senai\\back\\banco\\API\\Projeto_API\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lidia\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\lidia\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
