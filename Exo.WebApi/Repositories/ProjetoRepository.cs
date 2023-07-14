@@ -4,8 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
+using Exo.WebApi.Repositories;
 
-namespace Exo.WebApi.Repository
+
+namespace Exo.WebApi.Repositories
 {
     public class ProjetoRepository
     {
